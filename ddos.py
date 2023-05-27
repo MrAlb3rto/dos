@@ -1,7 +1,7 @@
 import socket, random, time, auto_py_to_exe
 
 s =  socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-
+# -*- coding: utf-8 -*-
 
 print("""
 
